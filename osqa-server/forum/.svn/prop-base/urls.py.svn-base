@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 260
+/osqa/branches/cacheimp/forum/urls.py:874-939
+/osqa/branches/carpenter/forum/urls.py:691-725
+/osqa/branches/hernani/forum/urls.py:772-832
+/osqa/branches/jambazov/forum/urls.py:675-831
+/osqa/branches/notification-config/forum/urls.py:693-793,809,811-812,825-827
+END

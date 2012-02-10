@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svnroot/!svn/ver/1227/osqa/trunk
+END
+manage.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/!svn/ver/1077/osqa/trunk/manage.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/!svn/ver/79/osqa/trunk/LICENSE
+END
+osqa.iml
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/!svn/ver/26/osqa/trunk/osqa.iml
+END
+settings_local.py.dist
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1122/osqa/trunk/settings_local.py.dist
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/!svn/ver/186/osqa/trunk/.project
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/!svn/ver/1077/osqa/trunk/__init__.py
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svnroot/!svn/ver/361/osqa/trunk/INSTALL
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/!svn/ver/1200/osqa/trunk/settings.py
+END
+rmpyc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svnroot/!svn/ver/17/osqa/trunk/rmpyc
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svnroot/!svn/ver/1077/osqa/trunk/urls.py
+END
+osqa.wsgi.dist
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/618/osqa/trunk/osqa.wsgi.dist
+END

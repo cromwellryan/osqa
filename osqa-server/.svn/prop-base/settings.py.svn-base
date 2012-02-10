@@ -1,0 +1,13 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 250
+/osqa/branches/cacheimp/settings.py:874-931
+/osqa/branches/carpenter/settings.py:691-725
+/osqa/branches/hernani/settings.py:772-832
+/osqa/branches/jambazov/settings.py:675-831
+/osqa/branches/notification-config/settings.py:693-794,809,811-812,825-827
+END

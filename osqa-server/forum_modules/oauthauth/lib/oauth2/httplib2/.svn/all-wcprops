@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2
+END
+cacerts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/cacerts.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/__init__.py
+END
+socks.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/socks.py
+END
+iri2uri.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/iri2uri.py
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/!svn/ver/1225/osqa/trunk/forum/settings
+END
+minrep.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/1104/osqa/trunk/forum/settings/minrep.py
+END
+extkeys.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/187/osqa/trunk/forum/settings/extkeys.py
+END
+accept.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/641/osqa/trunk/forum/settings/accept.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/1130/osqa/trunk/forum/settings/__init__.py
+END
+moderation.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/1225/osqa/trunk/forum/settings/moderation.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1175/osqa/trunk/forum/settings/users.py
+END
+form.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/!svn/ver/430/osqa/trunk/forum/settings/form.py
+END
+voting.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/667/osqa/trunk/forum/settings/voting.py
+END
+faq.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/940/osqa/trunk/forum/settings/faq.py
+END
+sidebar.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1078/osqa/trunk/forum/settings/sidebar.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1114/osqa/trunk/forum/settings/base.py
+END
+about.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/367/osqa/trunk/forum/settings/about.py
+END
+view.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1194/osqa/trunk/forum/settings/view.py
+END
+basic.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/349/osqa/trunk/forum/settings/basic.py
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/86/osqa/trunk/forum/settings/upload.py
+END
+sitemaps.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/964/osqa/trunk/forum/settings/sitemaps.py
+END
+repgain.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/796/osqa/trunk/forum/settings/repgain.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1124/osqa/trunk/forum/settings/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/796/osqa/trunk/forum/settings/forms.py
+END
+static.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/617/osqa/trunk/forum/settings/static.py
+END
+email.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1216/osqa/trunk/forum/settings/email.py
+END

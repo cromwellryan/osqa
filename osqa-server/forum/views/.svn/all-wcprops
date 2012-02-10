@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/!svn/ver/1223/osqa/trunk/forum/views
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/1223/osqa/trunk/forum/views/admin.py
+END
+vars.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/!svn/ver/821/osqa/trunk/forum/views/vars.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/187/osqa/trunk/forum/views/__init__.py
+END
+writers.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1140/osqa/trunk/forum/views/writers.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1215/osqa/trunk/forum/views/auth.py
+END
+commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1219/osqa/trunk/forum/views/commands.py
+END
+users.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/1212/osqa/trunk/forum/views/users.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1120/osqa/trunk/forum/views/decorators.py
+END
+readers.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1208/osqa/trunk/forum/views/readers.py
+END
+meta.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1137/osqa/trunk/forum/views/meta.py
+END

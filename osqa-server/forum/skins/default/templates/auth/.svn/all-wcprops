@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/auth
+END
+mail_validation.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/520/osqa/trunk/forum/skins/default/templates/auth/mail_validation.html
+END
+mail_already_validated.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/!svn/ver/634/osqa/trunk/forum/skins/default/templates/auth/mail_already_validated.html
+END
+auth_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/auth/auth_settings.html
+END
+welcome_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/520/osqa/trunk/forum/skins/default/templates/auth/welcome_email.html
+END
+temp_login_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/!svn/ver/520/osqa/trunk/forum/skins/default/templates/auth/temp_login_email.html
+END
+temp_login_request.html
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/auth/temp_login_request.html
+END
+signin.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/auth/signin.html
+END
+complete.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/auth/complete.html
+END

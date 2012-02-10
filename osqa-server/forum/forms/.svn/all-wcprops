@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/!svn/ver/1206/osqa/trunk/forum/forms
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/1077/osqa/trunk/forum/forms/admin.py
+END
+general.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1106/osqa/trunk/forum/forms/general.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1077/osqa/trunk/forum/forms/__init__.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1077/osqa/trunk/forum/forms/auth.py
+END
+qanda.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/1206/osqa/trunk/forum/forms/qanda.py
+END

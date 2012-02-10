@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/!svn/ver/1134/osqa/trunk/forum_modules/updates
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/1134/osqa/trunk/forum_modules/updates/base.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/1126/osqa/trunk/forum_modules/updates/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1123/osqa/trunk/forum_modules/updates/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1123/osqa/trunk/forum_modules/updates/settings.py
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1123/osqa/trunk/forum_modules/updates/startup.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/1123/osqa/trunk/forum_modules/updates/urls.py
+END

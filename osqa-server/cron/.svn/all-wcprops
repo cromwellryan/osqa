@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svnroot/!svn/ver/79/osqa/trunk/cron
+END
+send_email_alerts_virtualenv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/17/osqa/trunk/cron/send_email_alerts_virtualenv
+END
+send_email_alerts
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/!svn/ver/17/osqa/trunk/cron/send_email_alerts
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svnroot/!svn/ver/17/osqa/trunk/cron/README
+END

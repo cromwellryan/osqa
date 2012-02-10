@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth
+END
+consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/oauthauth/consumer.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/oauthauth/__init__.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/1114/osqa/trunk/forum_modules/oauthauth/authentication.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/oauthauth/settings.py
+END

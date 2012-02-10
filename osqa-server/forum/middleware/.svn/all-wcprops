@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/!svn/ver/1185/osqa/trunk/forum/middleware
+END
+request_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1185/osqa/trunk/forum/middleware/request_utils.py
+END
+anon_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/anon_user.py
+END
+custom_pages.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1142/osqa/trunk/forum/middleware/custom_pages.py
+END
+django_cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/django_cookies.py
+END
+extended_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/extended_user.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/__init__.py
+END
+admin_messages.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/admin_messages.py
+END
+cancel.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/1077/osqa/trunk/forum/middleware/cancel.py
+END

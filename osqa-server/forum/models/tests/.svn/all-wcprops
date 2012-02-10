@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/!svn/ver/1077/osqa/trunk/forum/models/tests
+END
+test_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1077/osqa/trunk/forum/models/tests/test_user.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/1077/osqa/trunk/forum/models/tests/__init__.py
+END

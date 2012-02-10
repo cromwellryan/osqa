@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests
+END
+tags_page.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests/tags_page.py
+END
+users_page.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests/users_page.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests/__init__.py
+END
+registration_login.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests/registration_login.py
+END
+faq_page.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1077/osqa/trunk/forum/skins/default/tests/faq_page.py
+END

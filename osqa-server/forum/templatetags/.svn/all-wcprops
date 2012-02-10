@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/!svn/ver/1226/osqa/trunk/forum/templatetags
+END
+extra_filters.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1145/osqa/trunk/forum/templatetags/extra_filters.py
+END
+user_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/924/osqa/trunk/forum/templatetags/user_tags.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/29/osqa/trunk/forum/templatetags/__init__.py
+END
+question_list_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1078/osqa/trunk/forum/templatetags/question_list_tags.py
+END
+extra_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1203/osqa/trunk/forum/templatetags/extra_tags.py
+END
+node_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1226/osqa/trunk/forum/templatetags/node_tags.py
+END
+general_sidebar_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/617/osqa/trunk/forum/templatetags/general_sidebar_tags.py
+END
+smart_if.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/17/osqa/trunk/forum/templatetags/smart_if.py
+END
+email_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/940/osqa/trunk/forum/templatetags/email_tags.py
+END
+ui_registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/821/osqa/trunk/forum/templatetags/ui_registry.py
+END

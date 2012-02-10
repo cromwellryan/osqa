@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/924/osqa/trunk/forum/skins/default/templates/paginator
+END
+sort_tabs.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/!svn/ver/631/osqa/trunk/forum/skins/default/templates/paginator/sort_tabs.html
+END
+page_numbers.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/924/osqa/trunk/forum/skins/default/templates/paginator/page_numbers.html
+END
+page_sizes.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/490/osqa/trunk/forum/skins/default/templates/paginator/page_sizes.html
+END

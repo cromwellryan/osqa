@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/robotstxt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/robotstxt/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/robotstxt/settings.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/robotstxt/urls.py
+END

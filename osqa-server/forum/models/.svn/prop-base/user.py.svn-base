@@ -1,0 +1,10 @@
+K 13
+svn:eol-style
+V 6
+native
+K 13
+svn:mergeinfo
+V 116
+/osqa/branches/cacheimp/forum/models/user.py:874-939
+/osqa/branches/notification-config/forum/models/user.py:693-846
+END

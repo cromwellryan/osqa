@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 275
+/osqa/branches/cacheimp/forum/middleware:874-939
+/osqa/branches/carpenter/forum/middleware:691-725
+/osqa/branches/hernani/forum/middleware:772-832
+/osqa/branches/jambazov/forum/middleware:675-831
+/osqa/branches/notification-config/forum/middleware:693-794,809,811-812,825-827
+END

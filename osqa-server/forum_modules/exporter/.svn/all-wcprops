@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1157/osqa/trunk/forum_modules/exporter
+END
+exporter.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1157/osqa/trunk/forum_modules/exporter/exporter.py
+END
+orm.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/orm.py
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/views.py
+END
+mappings.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/mappings.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/settings.py
+END
+commands.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/commands.py
+END
+importer.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/importer.py
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/startup.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/exporter/forms.py
+END

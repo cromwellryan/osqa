@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/1170/osqa/trunk/forum_modules/default_badges
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/default_badges/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/default_badges/settings.py
+END
+badges.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1170/osqa/trunk/forum_modules/default_badges/badges.py
+END

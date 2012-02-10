@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1103/osqa/trunk/forum/skins/default/templates/sidebar
+END
+recent_tags.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/1103/osqa/trunk/forum/skins/default/templates/sidebar/recent_tags.html
+END
+recent_awards.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/!svn/ver/936/osqa/trunk/forum/skins/default/templates/sidebar/recent_awards.html
+END
+markdown_help.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/1073/osqa/trunk/forum/skins/default/templates/sidebar/markdown_help.html
+END
+user_blocks.html
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/!svn/ver/617/osqa/trunk/forum/skins/default/templates/sidebar/user_blocks.html
+END

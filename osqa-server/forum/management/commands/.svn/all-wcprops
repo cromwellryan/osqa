@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1199/osqa/trunk/forum/management/commands
+END
+base_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/base_command.py
+END
+create_subscriptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/create_subscriptions.py
+END
+send_email_alerts.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/!svn/ver/1108/osqa/trunk/forum/management/commands/send_email_alerts.py
+END
+test_ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/test_ui.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/__init__.py
+END
+sample_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/sample_command.py
+END
+create_extended_user.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/1079/osqa/trunk/forum/management/commands/create_extended_user.py
+END
+message_to_everyone.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/message_to_everyone.py
+END
+module_command.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/module_command.py
+END
+checkinstall.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/1077/osqa/trunk/forum/management/commands/checkinstall.py
+END
+render_bodies.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/!svn/ver/1199/osqa/trunk/forum/management/commands/render_bodies.py
+END
+maintaindb.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/!svn/ver/1153/osqa/trunk/forum/management/commands/maintaindb.py
+END

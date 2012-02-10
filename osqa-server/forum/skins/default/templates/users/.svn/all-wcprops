@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1212/osqa/trunk/forum/skins/default/templates/users
+END
+suspend_user.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/411/osqa/trunk/forum/skins/default/templates/users/suspend_user.html
+END
+recent.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/!svn/ver/156/osqa/trunk/forum/skins/default/templates/users/recent.html
+END
+edit.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/1212/osqa/trunk/forum/skins/default/templates/users/edit.html
+END
+subscriptions_settings.html
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/!svn/ver/988/osqa/trunk/forum/skins/default/templates/users/subscriptions_settings.html
+END
+tabs.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/440/osqa/trunk/forum/skins/default/templates/users/tabs.html
+END
+reputation.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/!svn/ver/315/osqa/trunk/forum/skins/default/templates/users/reputation.html
+END
+questions.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/924/osqa/trunk/forum/skins/default/templates/users/questions.html
+END
+info.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/1167/osqa/trunk/forum/skins/default/templates/users/info.html
+END
+activity.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/156/osqa/trunk/forum/skins/default/templates/users/activity.html
+END
+stats.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/!svn/ver/1085/osqa/trunk/forum/skins/default/templates/users/stats.html
+END
+votes.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/254/osqa/trunk/forum/skins/default/templates/users/votes.html
+END
+signature.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/603/osqa/trunk/forum/skins/default/templates/users/signature.html
+END
+preferences.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/1099/osqa/trunk/forum/skins/default/templates/users/preferences.html
+END
+karma_bonus.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/487/osqa/trunk/forum/skins/default/templates/users/karma_bonus.html
+END
+users.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/497/osqa/trunk/forum/skins/default/templates/users/users.html
+END
+subscriptions_management.html
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/!svn/ver/544/osqa/trunk/forum/skins/default/templates/users/subscriptions_management.html
+END
+menu.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/487/osqa/trunk/forum/skins/default/templates/users/menu.html
+END
+online_users.html
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/!svn/ver/565/osqa/trunk/forum/skins/default/templates/users/online_users.html
+END
+subscriptions.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/1124/osqa/trunk/forum/skins/default/templates/users/subscriptions.html
+END

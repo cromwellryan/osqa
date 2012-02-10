@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/!svn/ver/1169/osqa/trunk/forum_modules/akismet
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/akismet/__init__.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/akismet/settings.py
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/akismet/startup.py
+END

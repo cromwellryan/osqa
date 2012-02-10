@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1136/osqa/trunk/forum_modules/exporter/templates
+END
+running.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/1136/osqa/trunk/forum_modules/exporter/templates/running.html
+END
+importer.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/607/osqa/trunk/forum_modules/exporter/templates/importer.html
+END
+exporter.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/988/osqa/trunk/forum_modules/exporter/templates/exporter.html
+END

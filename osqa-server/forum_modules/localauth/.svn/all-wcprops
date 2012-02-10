@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1155/osqa/trunk/forum_modules/localauth
+END
+views.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/localauth/views.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/localauth/__init__.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/localauth/authentication.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/localauth/urls.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1155/osqa/trunk/forum_modules/localauth/forms.py
+END

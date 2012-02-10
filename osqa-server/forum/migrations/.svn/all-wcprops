@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/!svn/ver/1092/osqa/trunk/forum/migrations
+END
+0004_auto__del_field_repute_negative__del_field_repute_positive__del_field_.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0004_auto__del_field_repute_negative__del_field_repute_positive__del_field_.py
+END
+0009_convert_revisions.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0009_convert_revisions.py
+END
+0045_auto__add_openidassociation__add_openidnonce__add_field_tag_created_at.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0045_auto__add_openidassociation__add_openidnonce__add_field_tag_created_at.py
+END
+0051_auto__chg_field_action_action_type.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/!svn/ver/1092/osqa/trunk/forum/migrations/0051_auto__chg_field_action_action_type.py
+END
+0023_flaten_node_inheritance_create_actions.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0023_flaten_node_inheritance_create_actions.py
+END
+0003_repute_changes.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0003_repute_changes.py
+END
+0013_auto__del_anonymousquestion__del_anonymousanswer__add_anonymousnode.py
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0013_auto__del_anonymousquestion__del_anonymousanswer__add_anonymousnode.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/__init__.py
+END
+0011_auto__add_field_node_active_revision.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0011_auto__add_field_node_active_revision.py
+END
+0037_fill_node_state.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0037_fill_node_state.py
+END
+0041_action_ip_fixes.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0041_action_ip_fixes.py
+END
+0008_auto__add_noderevision__del_field_vote_object_id__del_field_vote_conte.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0008_auto__add_noderevision__del_field_vote_object_id__del_field_vote_conte.py
+END
+0050_auto__chg_field_action_canceled_ip__chg_field_action_ip.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0050_auto__chg_field_action_canceled_ip__chg_field_action_ip.py
+END
+0036_auto__add_nodestate__chg_field_award_action__add_field_node_state_stri.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0036_auto__add_nodestate__chg_field_award_action__add_field_node_state_stri.py
+END
+0019_auto__del_likedcomment__del_comment__add_field_node_abs_parent__chg_fi.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0019_auto__del_likedcomment__del_comment__add_field_node_abs_parent__chg_fi.py
+END
+0005_fill_accepted_by_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0005_fill_accepted_by_field.py
+END
+0026_reset_deleted_and_lastedited_flags.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0026_reset_deleted_and_lastedited_flags.py
+END
+0030_auto__chg_field_action_extra__chg_field_keyvalue_value.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0030_auto__chg_field_action_extra__chg_field_keyvalue_value.py
+END
+0010_auto__del_questionrevision__del_answerrevision__del_field_answer_vote_.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0010_auto__del_questionrevision__del_answerrevision__del_field_answer_vote_.py
+END
+0040_auto__chg_field_nodestate_action__add_field_node_extra.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0040_auto__chg_field_nodestate_action__add_field_node_extra.py
+END
+0014_auto__add_field_question_accepted_answer.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0014_auto__add_field_question_accepted_answer.py
+END
+0015_accepted_answer_changes.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0015_accepted_answer_changes.py
+END
+0031_alter_pickle_storage.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0031_alter_pickle_storage.py
+END
+0021_create_new_pg_fts_triggers.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0021_create_new_pg_fts_triggers.py
+END
+0048_zero_count_tags_fix.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0048_zero_count_tags_fix.py
+END
+0028_auto__add_field_action_canceled_ip__add_field_actionrepute_date.py
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0028_auto__add_field_action_canceled_ip__add_field_actionrepute_date.py
+END
+0042_auto__add_userproperty.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0042_auto__add_userproperty.py
+END
+0025_auto__add_field_node_extra_action__add_field_node_deleted__add_field_n.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0025_auto__add_field_node_extra_action__add_field_node_deleted__add_field_n.py
+END
+0001_initial.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0001_initial.py
+END
+0029_repute_dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0029_repute_dates.py
+END
+0020_create_absolute_parents.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0020_create_absolute_parents.py
+END
+0017_auto__add_field_repute_node__add_field_repute_canceled.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0017_auto__add_field_repute_node__add_field_repute_canceled.py
+END
+0007_q_and_a_to_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0007_q_and_a_to_node.py
+END
+0002_auto__add_likedcomment__del_field_repute_positive__del_field_repute_ne.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0002_auto__add_likedcomment__del_field_repute_positive__del_field_repute_ne.py
+END
+0022_auto__add_actionrepute__add_action__add_favoritenode__del_field_node_v.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0022_auto__add_actionrepute__add_action__add_favoritenode__del_field_node_v.py
+END
+0018_comments_to_node.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0018_comments_to_node.py
+END
+0012_set_active_revision.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0012_set_active_revision.py
+END
+0016_auto__del_field_question_answer_accepted__chg_field_question_node_ptr.py
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0016_auto__del_field_question_answer_accepted__chg_field_question_node_ptr.py
+END
+0035_auto__del_field_award_object_id__del_field_award_content_type__add_uni.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0035_auto__del_field_award_object_id__del_field_award_content_type__add_uni.py
+END
+0032_auto__del_field_user_hide_ignored_questions__del_field_user_questions_.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0032_auto__del_field_user_hide_ignored_questions__del_field_user_questions_.py
+END
+0024_auto__del_repute__del_vote__del_answer__del_flaggeditem__del_anonymous.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0024_auto__del_repute__del_vote__del_answer__del_flaggeditem__del_anonymous.py
+END
+0038_auto__del_field_node_wiki__del_field_node_deleted__del_field_node_extr.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0038_auto__del_field_node_wiki__del_field_node_deleted__del_field_node_extr.py
+END
+0027_auto__del_activity.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0027_auto__del_activity.py
+END
+0039_auto__del_field_tag_deleted__del_field_tag_deleted_by__del_field_tag_d.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0039_auto__del_field_tag_deleted__del_field_tag_deleted_by__del_field_tag_d.py
+END
+0046_set_tag_dates.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0046_set_tag_dates.py
+END
+0049_auto__chg_field_user_reputation.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0049_auto__chg_field_user_reputation.py
+END
+0006_auto__add_node__add_field_vote_node__add_field_comment_node__add_field.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0006_auto__add_node__add_field_vote_node__add_field_comment_node__add_field.py
+END
+0034_new_badge_and_award.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0034_new_badge_and_award.py
+END
+0043_auto__add_field_subscriptionsettings_send_digest__add_field_action_rea.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0043_auto__add_field_subscriptionsettings_send_digest__add_field_action_rea.py
+END
+0044_markdown_cache_migration.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0044_markdown_cache_migration.py
+END
+0047_auto__del_field_subscriptionsettings_questions_asked__del_field_subscr.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0047_auto__del_field_subscriptionsettings_questions_asked__del_field_subscr.py
+END
+0033_auto__add_flag__add_vote__add_field_badge_cls__del_unique_badge_type_n.py
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svnroot/!svn/ver/1077/osqa/trunk/forum/migrations/0033_auto__add_flag__add_vote__add_field_badge_cls__del_unique_badge_type_n.py
+END

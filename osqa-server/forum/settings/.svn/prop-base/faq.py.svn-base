@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 280
+/osqa/branches/cacheimp/forum/settings/faq.py:874-939
+/osqa/branches/carpenter/forum/settings/faq.py:691-725
+/osqa/branches/hernani/forum/settings/faq.py:772-832
+/osqa/branches/jambazov/forum/settings/faq.py:675-831
+/osqa/branches/notification-config/forum/settings/faq.py:693-852
+END

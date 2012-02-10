@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/1179/osqa/trunk/forum_modules/openidauth
+END
+consumer.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1179/osqa/trunk/forum_modules/openidauth/consumer.py
+END
+store.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/!svn/ver/1128/osqa/trunk/forum_modules/openidauth/store.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/openidauth/__init__.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/openidauth/authentication.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/openidauth/settings.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/openidauth/models.py
+END

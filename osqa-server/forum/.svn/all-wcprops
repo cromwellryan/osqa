@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svnroot/!svn/ver/1227/osqa/trunk/forum
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svnroot/!svn/ver/1077/osqa/trunk/forum/admin.py
+END
+registry.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/!svn/ver/1212/osqa/trunk/forum/registry.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/1079/osqa/trunk/forum/base.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/!svn/ver/1180/osqa/trunk/forum/__init__.py
+END
+http_responses.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/1077/osqa/trunk/forum/http_responses.py
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/!svn/ver/1077/osqa/trunk/forum/startup.py
+END
+sitemap.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/!svn/ver/1081/osqa/trunk/forum/sitemap.py
+END
+feed.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/1221/osqa/trunk/forum/feed.py
+END
+context.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svnroot/!svn/ver/1077/osqa/trunk/forum/context.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/1212/osqa/trunk/forum/urls.py
+END
+subscriptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/1077/osqa/trunk/forum/subscriptions.py
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/1213/osqa/trunk/forum_modules/facebookauth
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/facebookauth/__init__.py
+END
+authentication.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/1213/osqa/trunk/forum_modules/facebookauth/authentication.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1211/osqa/trunk/forum_modules/facebookauth/settings.py
+END

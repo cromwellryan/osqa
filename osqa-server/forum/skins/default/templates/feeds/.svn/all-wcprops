@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/!svn/ver/503/osqa/trunk/forum/skins/default/templates/feeds
+END
+rss_answer_title.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/!svn/ver/503/osqa/trunk/forum/skins/default/templates/feeds/rss_answer_title.html
+END
+rss_title.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/!svn/ver/503/osqa/trunk/forum/skins/default/templates/feeds/rss_title.html
+END
+rss_description.html
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/!svn/ver/17/osqa/trunk/forum/skins/default/templates/feeds/rss_description.html
+END

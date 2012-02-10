@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test
+END
+other_cacerts.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test/other_cacerts.txt
+END
+smoke_test.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test/smoke_test.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test/__init__.py
+END
+miniserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test/miniserver.py
+END
+test_no_socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/!svn/ver/1116/osqa/trunk/forum_modules/oauthauth/lib/oauth2/httplib2/test/test_no_socket.py
+END

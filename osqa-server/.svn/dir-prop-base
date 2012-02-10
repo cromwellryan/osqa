@@ -1,0 +1,32 @@
+K 10
+svn:ignore
+V 90
+.pydevproject
+
+cache
+
+settings_local.py
+
+.settings
+
+.idea
+
+*.iml
+
+osqa.wsgi
+
+jambazov.ipr
+
+K 13
+svn:mergeinfo
+V 182
+/osqa/branches/cacheimp:874-939
+/osqa/branches/carpenter:691-725
+/osqa/branches/hernani:772-832
+/osqa/branches/jambazov:675-831
+/osqa/branches/notification-config:809,811-812,825-827
+K 19
+svnmerge-integrated
+V 33
+/osqa/branches/experimental:1-105
+END

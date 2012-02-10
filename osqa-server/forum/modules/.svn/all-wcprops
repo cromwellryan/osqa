@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svnroot/!svn/ver/1077/osqa/trunk/forum/modules
+END
+ui.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1046/osqa/trunk/forum/modules/ui.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1077/osqa/trunk/forum/modules/__init__.py
+END
+template_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/!svn/ver/840/osqa/trunk/forum/modules/template_loader.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/!svn/ver/1077/osqa/trunk/forum/modules/decorators.py
+END
+ui_objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/924/osqa/trunk/forum/modules/ui_objects.py
+END

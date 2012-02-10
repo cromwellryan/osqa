@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 415
+/osqa/branches/cacheimp/forum/skins/default/templates/auth/complete.html:874-939
+/osqa/branches/carpenter/forum/skins/default/templates/auth/complete.html:691-725
+/osqa/branches/hernani/forum/skins/default/templates/auth/complete.html:772-832
+/osqa/branches/jambazov/forum/skins/default/templates/auth/complete.html:675-831
+/osqa/branches/notification-config/forum/skins/default/templates/auth/complete.html:693-845
+END

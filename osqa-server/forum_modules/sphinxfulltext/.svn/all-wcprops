@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext/__init__.py
+END
+handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext/handlers.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext/settings.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext/models.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/!svn/ver/17/osqa/trunk/forum_modules/sphinxfulltext/README.txt
+END
+dependencies.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/sphinxfulltext/dependencies.py
+END

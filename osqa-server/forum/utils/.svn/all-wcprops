@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svnroot/!svn/ver/1216/osqa/trunk/forum/utils
+END
+diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/diff.py
+END
+djangofix.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/511/osqa/trunk/forum/utils/djangofix.py
+END
+pagination.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/!svn/ver/1196/osqa/trunk/forum/utils/pagination.py
+END
+userlinking.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/!svn/ver/1093/osqa/trunk/forum/utils/userlinking.py
+END
+html2text.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/html2text.py
+END
+lists.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/lists.py
+END
+time.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/time.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/__init__.py
+END
+mail.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1216/osqa/trunk/forum/utils/mail.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/!svn/ver/1087/osqa/trunk/forum/utils/html.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/!svn/ver/17/osqa/trunk/forum/utils/decorators.py
+END

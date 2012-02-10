@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/!svn/ver/1079/osqa/trunk/forum_modules/pgfulltext
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1079/osqa/trunk/forum_modules/pgfulltext/__init__.py
+END
+pg_fts_install.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/!svn/ver/611/osqa/trunk/forum_modules/pgfulltext/pg_fts_install.sql
+END
+handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/pgfulltext/handlers.py
+END
+settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/pgfulltext/settings.py
+END
+startup.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/!svn/ver/1077/osqa/trunk/forum_modules/pgfulltext/startup.py
+END

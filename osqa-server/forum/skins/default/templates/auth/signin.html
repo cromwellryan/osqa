@@ -36,7 +36,7 @@
     {% if top_stackitem_providers %}
         <h3 class="or_label">{% trans 'Or...' %}</h3>
     {% endif %}
-    <div style="width:600px;float:left;margin-bottom:5px;">
+    <!--div style="width:600px;float:left;margin-bottom:5px;">
     {% blocktrans %}
         External login services use <b><a href="http://openid.net/">OpenID</a></b> technology, where your password always stays confidential between
         you and your login provider and you don't have to remember another one.
@@ -85,7 +85,7 @@
                 </div>
             </div>
         {% endfor %}
-    </div>
+    </div-->
     <form name="signin_form" id="signin_form" class="signin_form" method="POST" action="">
         {% csrf_token %}
         <div id="signin_form_slot"></div>

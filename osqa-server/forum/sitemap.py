@@ -97,13 +97,13 @@ class OsqaSitemap(Sitemap):
 
     def get_urls(self, page=1):
         urls = []
-        for item in self.paginator.page(page).object_list:
-            loc = "%s%s" % (settings.APP_URL, self.__get('location', item))
-            url_info = {
-                'location':   loc,
-                'lastmod':    self.__get('lastmod', item, None),
-                'changefreq': self.__get('changefreq', item, None),
-                'priority':   self.__get('priority', item, None)
-            }
-            urls.append(url_info)
+        # for item in self.paginator.page(page).object_list:
+        #    loc = "%s%s" % (settings.APP_URL, self.__get('location', item))
+        #    url_info = {
+        #        'location':   loc,
+        #        'lastmod':    self.__get('lastmod', item, None),
+        #        'changefreq': self.__get('changefreq', item, None),
+        #        'priority':   self.__get('priority', item, None)
+        #    }
+        #    urls.append(url_info)
         return urls

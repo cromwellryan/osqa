@@ -377,6 +377,9 @@ def remove_external_provider(request, id):
 def login_and_forward(request, user, forward=None, message=None):
     if user.is_suspended():
         return forward_suspended_user(request, user)
+		
+	if not user.email_isvalid:
+		return forward_invalid_user(request, user)
 
     user.backend = "django.contrib.auth.backends.ModelBackend"
     login(request, user)
@@ -429,6 +432,16 @@ def forward_suspended_user(request, user, show_private_msg=True):
     suspension = user.suspension
     if suspension:
         message += (":<br />" + suspension.extra.get(msg_type, ''))
+
+    request.user.message_set.create(message)
+    return HttpResponseRedirect(reverse('index'))
+	
+def forward_invalid_user(request, user, show_private_msg=True):
+    message = _("Please validate your email to continue.")
+    if show_private_msg:
+        msg_type = 'privatemsg'
+    else:
+        msg_type = 'publicmsg'
 
     request.user.message_set.create(message)
     return HttpResponseRedirect(reverse('index'))
